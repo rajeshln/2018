@@ -37,6 +37,8 @@ public class TypeInferenceExample {
 
 interface StringLengthLambada {
 
+	// write the name and the return type here and just use it and time of implementation
+	// s -> (s.length())  , Takes String s as argument and calculates length and return it .
 	int getLength(String s);
 }
 
